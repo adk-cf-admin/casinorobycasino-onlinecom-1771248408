@@ -1,0 +1,224 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#25084F",
+            "lang-select-color": "#222829",
+            "bg-light": "#100C21",
+            "welcome-bonus-bg": "#25084F",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#320b6c",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#D0017D",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D0017D",
+            "yellow": "#D0017D",
+            "yellow-button": "#602DA2",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#25084F",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#25084F",
+            "faq-label": "#25084F",
+            "bg-footer": "#25084F",
+            "copyright": "#e7e7d5",
+            "starColor": "#D0017D",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3123"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3124",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Robycasino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3125",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Robycasino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Robycasino",
+                    "title": "Robycasino — Top Online Casino Australia | A$500 Bonus",
+                    "description": "Play at Robycasino Australia with 3000+ pokies, live dealers & sports betting. Licensed operator with instant AUD deposits. Claim A$500 bonus today!\n",
+                    "canonical": "casinorobycasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3126",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinorobycasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3127"
+                },
+                "hero": {
+                    "title": "Australia's Premier Online Casino & Betting Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3128",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3129",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Australia? We operate with certified gaming software, offer instant payouts via Australian banking methods, and provide 24\/7 support. Here's what makes us the preferred choice for Aussie players:\n",
+                    "items": [
+                        "Licensed gaming platform with eCOGRA certified fair play and RNG tested games",
+                        "3000+ games including pokies, blackjack, roulette, live dealers from NetEnt, Microgaming, Evolution",
+                        "Instant AUD deposits via POLi, BPay, Visa, Mastercard and major Australian banks including CommBank",
+                        "24\/7 customer support in English via live chat, email and phone with average 90-second response time",
+                        "SSL 256-bit encryption protecting 100% of transactions, personal data and banking information",
+                        "Exclusive VIP program with cashback rewards, tournament access and personalized account management"
+                    ],
+                    "advantagesAfterText": "Join over 200,000 satisfied Australian players enjoying secure gaming with independently audited software. Our dedicated Aussie support team is ready to assist you 24\/7\/365 in English.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Robycasino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3130",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Robycasino App",
+                    "mobileGooglePlayImageTitle": "Robycasino App",
+                    "mobileIosImageTitle": "Robycasino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Robycasino",
+                        "description1": "We've been serving Australian players for years, building a reputation as one of the country's most trusted online gaming platforms. Operating with certified software, we offer 3000+ games from leading providers with secure AUD transactions.\n",
+                        "items": [
+                            "Expanded gaming portfolio to over 3000 certified pokies and table games",
+                            "Introduced live dealer tables with professional English-speaking croupiers",
+                            "Partnership with Evolution Gaming and NetEnt for exclusive Australian content",
+                            "Achieved eCOGRA Safe & Fair certification with RNG tested gaming outcomes"
+                        ],
+                        "description2": "We operate with certified gaming licenses and use SSL 256-bit encryption protecting all transactions. Our platform is audited by eCOGRA ensuring fair play. Every game undergoes RNG testing by iTech Labs for random outcomes and transparency.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3131",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue expanding our gaming selection with new providers and exclusive titles for Australian players. Our commitment to responsible gaming with self-exclusion tools remains paramount. Join us and discover why Aussies choose Robycasino!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Gaming Portfolio for Australian Players",
+                        "description": "<h2>Extensive Game Collection Tailored for Aussie Gamblers<\/h2>\n\n<p>Our gaming platform features an exceptional collection of over 3,000 licensed casino games specifically curated for Australian players. We partner with the industry's most prestigious software providers including NetEnt, Microgaming, Pragmatic Play, Evolution Gaming, Play'n GO, and Yggdrasil to deliver premium gambling entertainment. Every game in our portfolio undergoes rigorous RNG testing by independent auditors iTech Labs and eCOGRA, ensuring certified fairness with return-to-player percentages verified and published. Australian gamblers can access our complete gaming library 24\/7 from desktop computers, tablets, and mobile devices with seamless HTML5 technology requiring no downloads. Whether you're passionate about spinning pokies with progressive jackpots reaching millions in AUD, challenging live dealers at blackjack tables, or placing bets on roulette wheels, our platform delivers authentic casino experiences from the comfort of your Australian home.<\/p>\n\n<h3>Premium Pokies Selection with Australian Themes<\/h3>\n\n<p>Our pokies collection stands as the crown jewel of our gaming portfolio, featuring over 2,500 video slots from certified providers. Australian players particularly enjoy our selection of locally-themed pokies celebrating Aussie culture, wildlife, and landmarks alongside international blockbuster titles. We offer classic three-reel fruit machines for traditional gamblers, modern five-reel video slots with 243 to 117,649 ways to win using Megaways mechanics, and cluster-pays slots eliminating traditional paylines entirely. Return-to-player percentages across our pokies range from 95.5% to 98.2%, with volatility levels clearly marked as low, medium, or high to match your gambling preferences and bankroll management strategies.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Progressive Jackpot Pokies:<\/strong> Mega Moolah with jackpots exceeding A$15 million, Divine Fortune offering hourly payouts, Hall of Gods featuring Norse mythology with A$8 million+ pools, and Major Millions providing daily winning opportunities. Australian players have won over A$45 million in progressive jackpots through our platform in recent years, with payouts processed instantly to AUD accounts.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Megaways Pokies Collection:<\/strong> Bonanza with 117,649 ways to win and 96% RTP, Extra Chilli offering free spins gamble feature, White Rabbit reaching 248,832 ways with extending reels, and Gonzo's Quest Megaways combining avalanche mechanics with multipliers up to 15x. These innovative slots provide Australian gamblers with unprecedented winning combinations and exciting bonus features.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Australian-Themed Pokies:<\/strong> Big Red celebrating outback wildlife with 97.04% RTP, 50 Lions featuring iconic Australian animals, Queen of the Nile exploring ancient Egypt with Aussie twist, and Thunder from Down Under showcasing local landscapes. These culturally relevant titles resonate with Australian players seeking familiar themes and symbols.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Branded Entertainment Slots:<\/strong> Game of Thrones with 243 ways to win across four house variations, Jurassic Park featuring T-Rex Alert mode with guaranteed wilds, Immortal Romance offering 12 million ways during free spins, and Bridesmaids delivering laugh-out-loud comedy with wheel bonus. Licensed slots combine Hollywood entertainment with certified gambling mechanics.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>High RTP Pokies for Value Seekers:<\/strong> Blood Suckers returning 98% to players over time, Mega Joker offering 99% RTP in supermeter mode, 1429 Uncharted Seas providing 98.6% returns, and Jackpot 6000 delivering 98.8% with optimal strategy. Australian gamblers seeking maximum value prioritize these mathematically favorable titles for extended play sessions.\n  <\/li>\n<\/ul>\n\n<h3>Classic Table Games with Professional Dealers<\/h3>\n\n<p>Beyond pokies, our platform excels in delivering authentic table game experiences replicating the atmosphere of prestigious land-based casinos. We offer over 200 variations of roulette, blackjack, baccarat, and poker powered by Random Number Generators certified by iTech Labs for guaranteed fairness. Australian players can choose between American, European, and French roulette versions with betting limits ranging from A$1 to A$5,000 per spin accommodating casual gamblers and high rollers alike. Our blackjack collection includes Classic Blackjack with 99.5% RTP using optimal basic strategy, Atlantic City Blackjack with late surrender option, Spanish 21 removing ten-cards for unique gameplay, and Pontoon following Australian rules familiar to local gamblers.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Roulette Variations for Every Strategy:<\/strong> European Roulette with single zero offering 97.3% RTP and house edge of only 2.7%, American Roulette featuring double-zero for 94.74% returns, French Roulette with La Partage rule returning half of even-money bets when zero hits, and Multi-Wheel Roulette allowing simultaneous spins across eight wheels. Betting ranges accommodate A$0.50 minimum stakes to A$10,000 maximum for VIP Australian players.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack Options with Strategy Cards:<\/strong> Classic Blackjack paying 3:2 on naturals with 99.5% RTP using basic strategy, Blackjack Switch allowing players to exchange cards between two hands, Perfect Pairs offering side bets on matching cards with 25:1 payouts, and Multi-Hand Blackjack enabling five simultaneous hands. We provide free downloadable strategy charts optimized for Australian players maximizing returns.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat Collection for High Rollers:<\/strong> Punto Banco following standard rules with 98.94% banker bet RTP, Baccarat Squeeze adding suspense with slow card reveals, No Commission Baccarat removing 5% banker charge with adjusted payouts, and Mini Baccarat offering lower A$5 minimums. Australian VIP players appreciate our A$50,000 maximum table limits for serious gambling sessions.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Video Poker with Perfect Strategy Returns:<\/strong> Jacks or Better returning 99.54% with optimal play, Deuces Wild offering 100.76% theoretical return in full-pay versions, Aces and Faces providing 99.26% RTP, and Joker Poker adding wild cards for easier winning hands. We display pay tables transparently allowing Australian gamblers to identify the most favorable video poker variants.\n  <\/li>\n<\/ul>\n\n<h3>What Makes Our Live Casino Special for Aussies?<\/h3>\n\n<p>Our live casino section represents the pinnacle of online gambling, streaming professional dealers in real-time HD video from certified studios operated by Evolution Gaming and Pragmatic Play Live. Australian players enjoy over 150 live tables operating 24\/7 with English-speaking croupiers creating authentic casino atmospheres without traveling to physical venues. Advanced streaming technology delivers crystal-clear video at 60 frames per second with multiple camera angles including overhead shots, close-ups of card dealing, and immersive first-person perspectives. Interactive features allow Australian gamblers to chat with dealers and fellow players while game statistics, betting history, and payout information display in real-time interfaces optimized for desktop and mobile devices.<\/p>\n\n<p>Live dealer tables accommodate betting ranges from A$1 to A$25,000 per hand, with dedicated VIP rooms offering even higher limits up to A$100,000 for our most prestigious Australian players. We schedule exclusive Australian hours between 6:00 PM and 2:00 AM AEDT when our most experienced English-speaking dealers work shifts, creating peak entertainment during evening hours when Aussie gamblers are most active. Game outcomes use physical equipment including real cards, genuine roulette wheels, and transparent dice eliminating any possibility of digital manipulation while multiple cameras capture every moment ensuring complete transparency and trust.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Roulette Tables Streaming 24\/7:<\/strong> Immersive Roulette with multi-camera slow-motion replays of ball landing, Speed Roulette completing rounds every 25 seconds for action-packed gambling, Lightning Roulette adding random multipliers up to 500x on straight-up numbers, and Auto Roulette using compressed air launching balls for continuous play. Australian players enjoy A$0.50 to A$10,000 betting ranges across 15+ concurrent tables.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Blackjack with Australian Dealers:<\/strong> Unlimited Blackjack allowing infinite players on single hands with individual decisions, Lightning Blackjack featuring random multipliers up to 25x on winning hands, Blackjack Party with dual dealers creating entertainment atmosphere, and Free Bet Blackjack offering complimentary double-down and split bets. Stakes range from A$5 to A$15,000 with professional English-speaking dealers trained in Australian gambling culture.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Baccarat for High-Stakes Players:<\/strong> Speed Baccarat completing 48 rounds per hour for quick sessions, Baccarat Squeeze letting players control card reveals for maximum suspense, No Commission Baccarat removing 5% fee on banker wins, and Lightning Baccarat adding multipliers up to 262,144x on selected cards. Australian VIP gamblers access exclusive tables with A$100,000 maximum bets and dedicated account managers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Game Show Experiences Combining Entertainment:<\/strong> Crazy Time featuring four bonus rounds including Cash Hunt, Pachinko, Coin Flip, and Crazy Time with 20,000x maximum multipliers, Dream Catcher money wheel with straightforward betting on numbers 1, 2, 5, 10, 20, 40 and multipliers, Monopoly Live combining board game mechanics with gambling excitement, and Mega Ball blending bingo with lottery-style gameplay. These innovative formats attract Australian players seeking entertainment beyond traditional table games.\n  <\/li>\n<\/ul>\n\n<h3>Arcade and Specialty Games for Variety<\/h3>\n\n<p>Australian gamblers seeking alternatives to traditional casino games discover our specialty section featuring instant-win games, virtual sports, scratch cards, and arcade-style entertainment. These games combine skill-based elements with chance mechanics, offering quick results and simplified rules perfect for casual gambling sessions or breaks between intense poker tournaments. Our scratch card collection includes over 50 digital versions with prizes up to A$500,000, while virtual sports simulate football, horse racing, greyhound racing, and tennis matches with betting markets identical to real sporting events compressed into two-minute cycles.<\/p>\n\n<h3>Sports Betting Platform for Australian Events<\/h3>\n\n<p>Beyond casino games, our comprehensive sportsbook covers over 35 sports with live betting markets on thousands of daily events worldwide. Australian players particularly enjoy betting on AFL matches, NRL competitions, cricket test matches, Melbourne Cup horse racing, and Australian Open tennis with competitive odds refreshing in real-time. We offer pre-match and live in-play betting with cash-out features allowing Aussie gamblers to secure profits or minimize losses before events conclude. Betting markets extend beyond match winners to include handicaps, over\/under totals, first scorer, correct scores, and hundreds of prop bets on individual player performances.<\/p>\n\n<p>Our sports betting interface displays upcoming fixtures, live scores, detailed statistics, and head-to-head records helping Australian bettors make informed decisions. We provide same-game multis allowing combination bets within single matches for enhanced odds, while accumulator bonuses reward successful multi-leg parlays with percentage boosts up to 100%. Minimum bet requirements start at A$1 making sports betting accessible to casual Australian fans, while our high-stakes VIP players can request increased limits on major events reaching A$50,000 per wager. Live streaming is available for selected sporting events including ATP tennis, international football leagues, and basketball competitions, enabling Australian bettors to watch and wager simultaneously from desktop or mobile devices.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking Methods & Payouts for Australian Players",
+                        "description": "<h2>Fast and Secure Banking Options for Aussie Gamblers<\/h2>\n\n<p>We understand that Australian players require convenient, secure, and rapid banking solutions supporting local payment methods and instant AUD currency transactions. Our financial infrastructure accommodates major Australian banks including Commonwealth Bank, NAB, ANZ, and Westpac alongside specialized payment processors like POLi, BPay, and popular international e-wallets. Every deposit and withdrawal processes through encrypted channels protected by SSL 256-bit technology and PCI-DSS Level 1 compliance ensuring your financial information remains confidential. Australian gamblers can fund accounts instantly using credit cards, debit cards, bank transfers, e-wallets, and prepaid vouchers with minimum deposits starting at just A$10 making our platform accessible to players with any budget. We've optimized our payment processing specifically for the Australian market, eliminating currency conversion fees and guaranteeing transparent pricing on all transactions.<\/p>\n\n<h3>How Do Australian Players Deposit Funds Instantly?<\/h3>\n\n<p>Depositing funds into your account takes less than 60 seconds using any of our supported payment methods tailored for Australian gamblers. Simply navigate to the cashier section accessible from your account dashboard, select your preferred deposit method, enter the amount in AUD currency, and confirm the transaction with secure authentication. Credit card deposits using Visa and Mastercard process instantly with funds appearing in your gaming balance immediately, while POLi bank transfers connect directly to your Australian bank account through secure internet banking without storing sensitive card details on our servers.<\/p>\n\n<p>We accept deposits ranging from A$10 minimum to A$10,000 maximum per transaction, with daily deposit limits customizable through responsible gambling controls up to A$50,000 for verified high-roller accounts. Australian players using POLi benefit from direct bank-to-casino transfers supporting all major Australian financial institutions including Commonwealth Bank, Westpac, NAB, ANZ, Bendigo Bank, ING Direct, and over 50 regional banks nationwide. E-wallet options including Skrill, Neteller, and ecoPayz provide alternative instant deposit methods with added privacy keeping banking information separate from casino transactions, ideal for Australian gamblers preferring additional security layers.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #00d084;\">\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Time<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Limits<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Visa\/Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">A$10 - A$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>POLi<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">A$20 - A$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">1-3 days<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">A$50 - A$50,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Skrill\/Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">A$10 - A$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>BPay<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">24 hours<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">A$20 - A$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Paysafecard<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">A$10 - A$1,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>What Are the Withdrawal Processing Times for Aussie Players?<\/h3>\n\n<p>Withdrawing your winnings follows a streamlined process designed to return funds to Australian players as quickly as possible while maintaining security standards. First-time withdrawals require identity verification through our KYC procedure where you submit Australian government-issued ID such as driver's license or passport plus proof of address like utility bill or bank statement dated within 90 days. This one-time verification typically completes within 24 hours during business days, after which subsequent withdrawals process without delays.<\/p>\n\n<p>E-wallet withdrawals to Skrill, Neteller, and ecoPayz complete within 2-4 hours once approved, making them the fastest option for Australian gamblers requiring quick access to winnings. Bank transfers to Australian financial institutions process within 1-3 business days depending on your specific bank's processing schedules, with most major banks including Commonwealth, NAB, ANZ, and Westpac crediting funds within 24-48 hours. Credit and debit card withdrawals take 3-5 business days as funds must route through card issuer networks before appearing in your Australian bank account. Minimum withdrawal amounts start at A$20 across all methods, while maximum limits range from A$5,000 per transaction for standard accounts up to A$100,000 for VIP players with no monthly withdrawal caps.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>E-Wallet Withdrawals Within Hours:<\/strong> Skrill and Neteller process withdrawals in 2-4 hours after approval with A$20 minimum and A$10,000 maximum per transaction. Australian players who deposited using e-wallets must withdraw to the same e-wallet account for security compliance under anti-money laundering regulations. No fees apply to e-wallet withdrawals regardless of amount or frequency.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Direct Bank Transfers to Australian Accounts:<\/strong> Withdrawals to Commonwealth Bank, NAB, ANZ, Westpac, and other Australian banks complete in 1-3 business days with A$50 minimum and A$20,000 maximum per transaction. We cover all withdrawal fees ensuring you receive 100% of your winnings in AUD without deductions. High-roller VIP players can request expedited bank transfers completing within 24 hours.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Card Withdrawals Returning to Source:<\/strong> Visa and Mastercard withdrawals process in 3-5 business days returning funds to the original card used for deposits per industry security standards. Maximum A$5,000 per transaction applies with unlimited monthly withdrawals for Australian players. If you deposited using multiple cards, withdrawals split proportionally across those cards automatically.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cryptocurrency Options for Privacy-Conscious Players:<\/strong> Bitcoin, Ethereum, and Litecoin withdrawals process within 12-24 hours with minimal fees and enhanced privacy. Crypto withdrawals suit Australian players seeking anonymity with A$100 minimum and A$50,000 maximum limits. Exchange rate conversions from AUD to cryptocurrency occur at competitive market rates during withdrawal processing.\n  <\/li>\n<\/ul>\n\n<h3>Understanding Wagering Requirements and Bonus Terms<\/h3>\n\n<p>Australian players joining our platform receive generous welcome bonuses enhancing initial deposits and extending playing time substantially. Our standard welcome package offers 100% match bonus up to A$500 on first deposits plus 100 free spins on selected pokies with straightforward terms and conditions. Understanding wagering requirements is crucial: bonus funds carry 35x playthrough requirements meaning you must wager A$35 for every A$1 of bonus received before converting bonus balance into withdrawable cash. For example, claiming a A$100 bonus requires A$3,500 total bets across eligible games before withdrawal eligibility.<\/p>\n\n<p>Free spins typically generate winnings subject to 40x wagering requirements with maximum A$100 cashout limits from free spin profits. Australian players have 30 days from bonus activation to complete wagering requirements before bonuses and associated winnings expire. Not all games contribute equally toward requirements: pokies contribute 100%, video poker and table games contribute 10%, and roulette contributes 5% making pokies the optimal choice for clearing bonuses efficiently. We display wagering progress in real-time through your account dashboard showing remaining playthrough amounts and eligible games transparently.<\/p>\n\n<h3>VIP Rewards Program Exclusively for Aussie High Rollers<\/h3>\n\n<p>Our comprehensive VIP loyalty program rewards Australian players with points on every real money wager whether playing casino games or sports betting. Points accumulate automatically at rates of 1 point per A$10 wagered on pokies and 1 point per A$50 on table games, with higher tier members earning points 2-3 times faster. The program features five tiers: Bronze, Silver, Gold, Platinum, and Diamond, each unlocking enhanced benefits as you climb the ladder through consistent play.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bronze Tier for New Australian Players:<\/strong> Entry level achieved upon first deposit offering 3% cashback on net losses calculated weekly, birthday bonus of A$25 free play, and access to exclusive bronze tournaments with A$5,000 prize pools. Bronze members earn loyalty points at standard 1x rate with 365-day point expiration.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Silver Tier After A$5,000 Total Wagered:<\/strong> Unlocks 5% weekly cashback, dedicated email support with priority 12-hour response times, monthly reload bonus of 50% up to A$200, and invitations to silver tournaments offering A$10,000 combined prize pools. Point earning increases to 1.25x standard rate.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Gold Tier Requiring A$25,000 Lifetime Wagers:<\/strong> Provides 7% cashback, phone support with Australian toll-free number, exclusive gold tournaments with A$25,000 pools, customized bonus offers tailored to playing preferences, and faster withdrawal processing completing within 12 hours. Points accumulate at 1.5x accelerated rate.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Platinum Tier for Serious Australian Gamblers:<\/strong> Achieved after A$100,000 total wagering unlocking 10% cashback, dedicated account manager providing personalized service, platinum tournaments with A$50,000 prizes, invitations to land-based casino events in Australia, and increased table limits up to A$50,000. Earning rate reaches 2x standard with exclusive platinum-only bonuses.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Diamond Tier Reserved for Elite Players:<\/strong> Invitation-only highest tier for Australian players wagering A$500,000+ annually featuring 15% cashback paid weekly, 24\/7 priority support via dedicated phone line, diamond tournaments with A$100,000+ pools, luxury gifts including electronics and travel packages, complimentary hotel stays at premium Australian resorts, and custom withdrawal limits exceeding A$100,000 per transaction. Diamond members earn points at 3x rate with bespoke rewards.\n  <\/li>\n<\/ul>\n\n<h3>Responsible Gambling Tools for Australian Players<\/h3>\n\n<p>We prioritize player welfare by providing comprehensive responsible gambling tools helping Australian players maintain control over gaming activities. Our platform integrates deposit limits allowing you to set daily, weekly, or monthly maximum amounts preventing excessive spending beyond personal budgets. Loss limits restrict total losses during specified periods, while session time reminders alert you after predetermined playing durations encouraging regular breaks. Australian players can activate cooling-off periods ranging from 24 hours to 6 months during which accounts remain temporarily suspended preventing gambling access while maintaining account balances intact.<\/p>\n\n<p>Self-exclusion represents our most powerful responsible gambling tool, enabling Australian players to permanently close accounts for minimum 6-month periods up to permanent lifetime bans. During self-exclusion, we block all access attempts, prevent new account creation using your details, and cease all marketing communications respecting your decision to stop gambling. We partner with Gambling Help Online (1800 858 858) and Lifeline Australia providing Australian players with free confidential counseling services available 24\/7. Our support team receives training in recognizing problem gambling behaviors and can guide Australian players toward appropriate resources including financial counseling, mental health services, and support groups like Gamblers Anonymous Australia. Remember that gambling should remain entertainment, never a solution to financial difficulties, and we're committed to protecting vulnerable Australian players through proactive intervention and support services.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I register an account and start playing at Robycasino?",
+                            "answer": "Click \"Sign Up\" and complete registration with your email, password, and Australian address details. Verify your email via confirmation link within 24 hours. Deposit minimum A$20 using Visa, Mastercard, POLi, or BPay for instant account activation and access to 3000+ games plus sports betting.\n"
+                        },
+                        {
+                            "title": "What welcome bonuses are available for new Australian players?",
+                            "answer": "New Australian players receive a 100% match bonus up to A$500 on first deposits plus 100 free spins on selected pokies. Deposit minimum A$20 to qualify with bonus funds crediting automatically within 5 minutes. Wagering requirement is 35x the bonus amount completed within 30 days. Free spins carry 40x wagering with A$100 maximum cashout.\n"
+                        },
+                        {
+                            "title": "How quickly can I withdraw my winnings to an Australian bank account?",
+                            "answer": "Withdrawals to Australian bank accounts including Commonwealth, NAB, ANZ, and Westpac process within 1-3 business days after verification. E-wallet withdrawals to Skrill or Neteller complete in 2-4 hours for fastest access. First-time withdrawals require ID verification taking 24 hours. Minimum A$20 withdrawal with no fees deducted.\n"
+                        },
+                        {
+                            "title": "Is Robycasino licensed and safe for Australian players?",
+                            "answer": "We operate with certified gaming licenses and use SSL 256-bit encryption protecting 100% of transactions and personal data. All games undergo RNG testing by iTech Labs and eCOGRA ensuring certified fair play with published return-to-player percentages. Our platform complies with international responsible gambling standards.\n"
+                        },
+                        {
+                            "title": "Can I play casino games and bet on sports from my mobile device?",
+                            "answer": "Our platform is fully optimized for mobile devices including iPhones, iPads, and Android smartphones and tablets. Access 3000+ games and full sportsbook through mobile browsers without downloading apps. HTML5 technology ensures seamless gameplay with touch controls, portrait and landscape modes, and identical features to desktop.\n"
+                        },
+                        {
+                            "title": "What payment methods do Australian players use for deposits?",
+                            "answer": "Australian players deposit using POLi connecting directly to Australian banks, BPay for bill payments, Visa and Mastercard for instant credit transactions, and e-wallets including Skrill and Neteller. Minimum A$10 deposits process instantly in AUD currency without conversion fees. We support Commonwealth Bank, NAB, ANZ, Westpac and 50+ Australian financial institutions.\n"
+                        },
+                        {
+                            "title": "How does the VIP loyalty program work for Australian members?",
+                            "answer": "Earn loyalty points automatically on every real money wager at rates of 1 point per A$10 on pokies and 1 per A$50 on table games. Progress through five tiers from Bronze to Diamond unlocking cashback from 3% to 15%, exclusive tournaments, dedicated account managers, and faster withdrawals. Points convert to bonus cash at favorable rates.\n"
+                        },
+                        {
+                            "title": "Do you offer customer support in English for Australian players?",
+                            "answer": "Our Australian customer support team operates 24\/7\/365 via live chat with average 90-second response times, email support at support@robycasino.com responding within 12 hours, and phone support during Australian business hours. All representatives speak English and understand local banking methods, regulations, and gaming preferences.\n"
+                        },
+                        {
+                            "title": "What responsible gambling tools are available to Australian players?",
+                            "answer": "Set deposit limits daily, weekly, or monthly to control spending. Activate loss limits preventing excessive losses during specified periods. Use session time reminders for regular breaks. Apply cooling-off periods from 24 hours to 6 months or permanent self-exclusion. We partner with Gambling Help Online Australia (1800 858 858) for support.\n"
+                        },
+                        {
+                            "title": "Are there fees for deposits or withdrawals using Australian methods?",
+                            "answer": "We charge zero fees on all deposits regardless of payment method or amount. Withdrawal fees are covered entirely by us ensuring Australian players receive 100% of winnings in AUD without deductions. POLi, BPay, bank transfers, cards, and e-wallets process fee-free. Only cryptocurrency withdrawals incur minimal blockchain network fees.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
